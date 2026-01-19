@@ -5,7 +5,7 @@ This repository contains basic Python programs created as part of my learning in
 ## Contents
 - `hello.py` – My first Python program on GitHub.
 - `if_else.py` – Program to check if a number is positive, negative, or zero.
-
+- `loops.py` – Examples of for and while loops.
 
 ## About Me
 Lohith L M  
