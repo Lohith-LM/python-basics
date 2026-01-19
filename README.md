@@ -3,8 +3,9 @@
 This repository contains basic Python programs created as part of my learning in Computer Science Engineering (AI & ML).
 
 ## Contents
- `hello.py` – My first Python program on GitHub.
- `if_else.py` – Program to check if a number is positive, negative, or zero.
+- `hello.py` – My first Python program on GitHub.
+- `if_else.py` – Program to check if a number is positive, negative, or zero.
+
 
 ## About Me
 Lohith L M  
