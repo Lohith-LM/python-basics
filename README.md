@@ -7,7 +7,7 @@ This repository contains basic Python programs created as part of my learning in
 - `if_else.py` – Program to check if a number is positive, negative, or zero.
 - `loops.py` – Examples of for and while loops.
 - `functions.py` – Simple example of a user-defined function.
-
+- `lists.py` – Basic operations on Python lists.
 
 ## About Me
 Lohith L M  
