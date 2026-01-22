@@ -8,6 +8,7 @@ This repository contains basic Python programs created as part of my learning in
 - `loops.py` – Examples of for and while loops.
 - `functions.py` – Simple example of a user-defined function.
 - `lists.py` – Basic operations on Python lists.
+- `dictionary.py` – Basic usage of Python dictionaries (key-value pairs).
 
 ## About Me
 Lohith L M  
