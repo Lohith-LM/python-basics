@@ -9,6 +9,8 @@ This repository contains basic Python programs created as part of my learning in
 - `functions.py` – Simple example of a user-defined function.
 - `lists.py` – Basic operations on Python lists.
 - `dictionary.py` – Basic usage of Python dictionaries (key-value pairs).
+- `tuples_sets.py` – Examples of tuples (immutable) and sets (unique elements).
+
 
 ## About Me
 Lohith L M  
