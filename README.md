@@ -11,6 +11,8 @@ This repository contains basic Python programs created as part of my learning in
 - `dictionary.py` – Basic usage of Python dictionaries (key-value pairs).
 - `tuples_sets.py` – Examples of tuples (immutable) and sets (unique elements).
 - `file_handling.py` – Basic example of reading from and writing to a file.
+- `numpy_basics.py` – Basic operations using NumPy arrays.
+
 
 
 
