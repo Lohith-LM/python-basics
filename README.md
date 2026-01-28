@@ -12,6 +12,8 @@ This repository contains basic Python programs created as part of my learning in
 - `tuples_sets.py` – Examples of tuples (immutable) and sets (unique elements).
 - `file_handling.py` – Basic example of reading from and writing to a file.
 - `numpy_basics.py` – Basic operations using NumPy arrays.
+- `numpy_2d.py` – Working with 2D NumPy arrays (matrices).
+
 
 
 ## About Me
