@@ -16,8 +16,7 @@ This repository contains basic Python programs created as part of my learning in
 - `numpy_slicing.py` – Indexing and slicing in NumPy arrays.
 - `linear_regression_intro.py` – Basic idea of linear regression prediction.
 - `train_test_split_intro.py` – Basic idea of splitting data into train and test sets.
-
-
+- `lists_dicts.py` – Examples of Python lists and dictionaries.
 
 
 ## About Me
