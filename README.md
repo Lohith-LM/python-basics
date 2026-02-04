@@ -17,6 +17,7 @@ This repository contains basic Python programs created as part of my learning in
 - `linear_regression_intro.py` – Basic idea of linear regression prediction.
 - `train_test_split_intro.py` – Basic idea of splitting data into train and test sets.
 - `lists_dicts.py` – Examples of Python lists and dictionaries.
+- `strings.py` – Basic string operations in Python.
 
 
 ## About Me
