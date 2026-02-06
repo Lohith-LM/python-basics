@@ -6,7 +6,7 @@ This repository contains basic Python programs created as part of my learning in
 - `hello.py` – My first Python program on GitHub.
 - `if_else.py` – Program to check if a number is positive, negative, or zero.
 - `loops.py` – Examples of for and while loops.
-- `functions.py` – Simple example of a user-defined function.
+- functions.py – Examples of user-defined functions and return values.
 - `lists.py` – Basic operations on Python lists.
 - `dictionary.py` – Basic usage of Python dictionaries (key-value pairs).
 - `tuples_sets.py` – Examples of tuples (immutable) and sets (unique elements).
