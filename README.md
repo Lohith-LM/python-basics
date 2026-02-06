@@ -18,7 +18,7 @@ This repository contains basic Python programs created as part of my learning in
 - `train_test_split_intro.py` – Basic idea of splitting data into train and test sets.
 - `lists_dicts.py` – Examples of Python lists and dictionaries.
 - `strings.py` – Basic string operations in Python.
-
+- math_operations.py – Basic arithmetic operations in Python.
 
 ## About Me
 Lohith L M  
