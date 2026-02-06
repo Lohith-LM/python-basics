@@ -1,4 +1,3 @@
-def greet(name):
-    print("Hello", name)
-greet("Lohith")
-greet("I'am an AIML student")
+def square(num):
+    return num * num
+print("Square of 5 is:", square(5))
