@@ -20,6 +20,7 @@ This repository contains basic Python programs created as part of my learning in
 - `strings.py` – Basic string operations in Python.
 - math_operations.py – Basic arithmetic operations in Python.
 - type_conversion.py – Converting strings to integers and checking data types.
+- random_numbers.py – Generating random integers and floats.
 
 ## About Me
 Lohith L M  
