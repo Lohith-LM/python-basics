@@ -19,6 +19,7 @@ This repository contains basic Python programs created as part of my learning in
 - `lists_dicts.py` – Examples of Python lists and dictionaries.
 - `strings.py` – Basic string operations in Python.
 - math_operations.py – Basic arithmetic operations in Python.
+- type_conversion.py – Converting strings to integers and checking data types.
 
 ## About Me
 Lohith L M  
